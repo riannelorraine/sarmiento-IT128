@@ -584,11 +584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Herson\\Source\\Repos\\SarmientoLE2\\BlogTestUI\\BlogTestUI.csproj",
+      "projectUniqueName": "C:\\Users\\Herson\\Source\\Repos\\sarmiento-IT128\\SarmientoLE2\\BlogTestUI\\BlogTestUI.csproj",
       "projectName": "BlogTestUI",
-      "projectPath": "C:\\Users\\Herson\\Source\\Repos\\SarmientoLE2\\BlogTestUI\\BlogTestUI.csproj",
+      "projectPath": "C:\\Users\\Herson\\Source\\Repos\\sarmiento-IT128\\SarmientoLE2\\BlogTestUI\\BlogTestUI.csproj",
       "packagesPath": "C:\\Users\\Herson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Herson\\Source\\Repos\\SarmientoLE2\\BlogTestUI\\obj\\",
+      "outputPath": "C:\\Users\\Herson\\Source\\Repos\\sarmiento-IT128\\SarmientoLE2\\BlogTestUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Herson\\AppData\\Roaming\\NuGet\\NuGet.Config",
