@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Herson\\Pictures\\#TERM 3\\IT128L\\LE4\\SarmientoLE2\\BlogTestUI\\BlogTestUI.csproj": {}
+    "C:\\Users\\Herson\\Downloads\\LE4\\SarmientoLE2\\BlogTestUI\\BlogTestUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Herson\\Pictures\\#TERM 3\\IT128L\\LE4\\SarmientoLE2\\BlogTestUI\\BlogTestUI.csproj": {
+    "C:\\Users\\Herson\\Downloads\\LE4\\SarmientoLE2\\BlogTestUI\\BlogTestUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Herson\\Pictures\\#TERM 3\\IT128L\\LE4\\SarmientoLE2\\BlogTestUI\\BlogTestUI.csproj",
+        "projectUniqueName": "C:\\Users\\Herson\\Downloads\\LE4\\SarmientoLE2\\BlogTestUI\\BlogTestUI.csproj",
         "projectName": "BlogTestUI",
-        "projectPath": "C:\\Users\\Herson\\Pictures\\#TERM 3\\IT128L\\LE4\\SarmientoLE2\\BlogTestUI\\BlogTestUI.csproj",
+        "projectPath": "C:\\Users\\Herson\\Downloads\\LE4\\SarmientoLE2\\BlogTestUI\\BlogTestUI.csproj",
         "packagesPath": "C:\\Users\\Herson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Herson\\Pictures\\#TERM 3\\IT128L\\LE4\\SarmientoLE2\\BlogTestUI\\obj\\",
+        "outputPath": "C:\\Users\\Herson\\Downloads\\LE4\\SarmientoLE2\\BlogTestUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Herson\\AppData\\Roaming\\NuGet\\NuGet.Config",
