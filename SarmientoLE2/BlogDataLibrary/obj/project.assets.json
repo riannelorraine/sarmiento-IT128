@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Herson\\Source\\Repos\\sarmiento-IT128\\SarmientoLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Herson\\Pictures\\#TERM 3\\IT128L\\LE4\\SarmientoLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
       "projectName": "BlogDataLibrary",
-      "projectPath": "C:\\Users\\Herson\\Source\\Repos\\sarmiento-IT128\\SarmientoLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+      "projectPath": "C:\\Users\\Herson\\Pictures\\#TERM 3\\IT128L\\LE4\\SarmientoLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
       "packagesPath": "C:\\Users\\Herson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Herson\\Source\\Repos\\sarmiento-IT128\\SarmientoLE2\\BlogDataLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Herson\\Pictures\\#TERM 3\\IT128L\\LE4\\SarmientoLE2\\BlogDataLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Herson\\AppData\\Roaming\\NuGet\\NuGet.Config",
